@@ -2,7 +2,6 @@
 //
 // Created by: Noah Ouellette
 // Created on: Jan. 23, 2022
-// Date: Jan. 23, 2022
 // This program is a basic physics calculator that can calculate E=MC^2
 // the acceleration of an object, and power.
 
