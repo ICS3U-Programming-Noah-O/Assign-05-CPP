@@ -10,12 +10,12 @@
 #include <iomanip>
 #include <cmath>
 
-const int speedOfLight = 299792458;
+const int SPEED_OF_LIGHT = 299792458;
 
 float EnergyCalculation(float mass) {
     // This function calculates E=MC^2 and then
     // returns energy back to main
-    float energy = mass * pow(speedOfLight, 2);
+    float energy = mass * pow(SPEED_OF_LIGHT, 2);
     return(energy);
 }
 
